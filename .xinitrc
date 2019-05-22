@@ -13,5 +13,4 @@ dunst &			# dunst for notifications
 mpdupdate &
 
 
-xrdb -merge ~/.Xresources
 exec i3
